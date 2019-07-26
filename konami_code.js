@@ -12,7 +12,7 @@ const codes = [
 ];
 
 
-  function init() {
+  
     function init() {
       // your code here
 
