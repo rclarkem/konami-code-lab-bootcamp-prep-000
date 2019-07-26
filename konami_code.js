@@ -25,7 +25,7 @@ let orderedCounter = 0
 	}
 } else {
 	orderedCounter = 0
-} 
+}
  })
 }
 init()
